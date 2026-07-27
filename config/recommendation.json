@@ -1,0 +1,30 @@
+{
+  "code": 1,
+  "message": "SUCCESS",
+  "data": {
+    "pageNo": 0,
+    "pageSize": 10,
+    "totalPage": 1,
+    "totalSize": 0,
+    "data": [
+      {
+        "gameId": "g1008",
+        "gameTitle": "Bed Wars",
+        "praiseNumber": 0.0,
+        "gameCoverPic": "http://staticgs.sandboxol.com/sandbox/games/images/g1008-1684547322902.png",
+        "gameTypes": [],
+        "onlineNumber": 1,
+        "visitorEnter": 0,
+        "version": 0,
+        "isNewEngine": 1,
+        "isUgcGame": 0,
+        "engineVersion": 1,
+        "publishRegion": "regionALL",
+        "pcVersion": 0,
+        "isVipPrivilegeGame": 0,
+        "engineType": 1
+      }
+    ]
+  },
+  "other": null
+}
