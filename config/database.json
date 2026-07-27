@@ -1,0 +1,4 @@
+{
+ "databaseType": "MongoDB Atlas",
+ "databaseUrl": "mongodb+srv://MGO2022:MGO2022@maszxgoblockman.owowvvu.mongodb.net/blockman?retryWrites=true&w=majority&appName=MaszxGoBlockman"
+}

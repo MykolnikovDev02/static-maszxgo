@@ -1,0 +1,41 @@
+{
+  "code": 1,
+  "message": "SUCCESS",
+  "data": [
+    {
+      "id": 17,
+      "isFullScreen": false,
+      "isInside": false,
+      "isTest": false,
+      "titles": {
+        "en_US": "Welcome To Coin GO"
+      },
+      "image": "https://static-hatcoins.vercel.app/Banners/newsbanner.png",
+      "url": "https://dsc.gg/blockymods",
+      "version": 1.0
+    },
+    {
+      "id": 18,
+      "isFullScreen": false,
+      "isInside": true,
+      "isTest": false,
+      "titles": {
+        "en_US": "Lucky Wheel"
+      },
+      "image": "https://static-hatcoins.vercel.app/Banners/banner_lucky_wheel.png",
+      "version": 1.0
+    },
+        {
+      "id": 19,
+      "isFullScreen": false,
+      "isInside": true,
+      "isTest": false,
+      "titles": {
+        "en_US": "Bcube Wheel"
+      },
+      "image": "https://static-hatcoins.vercel.app/Banners/banner_wheel_2.png",
+      "url": "jumpToCampaign:campaign",
+      "version": 1.0
+    }
+  ]
+}

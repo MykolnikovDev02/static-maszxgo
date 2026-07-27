@@ -1,0 +1,35 @@
+[
+    
+    {
+        "gameId": "g1008",
+        "gameTitle": "Bed Wars",
+        "gameCoverPic": "https://maszxgocdn.netlify.app/game-icons/g1008.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["SIM", "AVG"]
+    },
+    {
+        "gameId": "g1014",
+        "gameTitle": "Jail Break",
+        "gameCoverPic": "https://maszxgocdn.netlify.app/game-icons/g1014.png",
+        "visitorEnter": 0,
+        "praiseNumber": 0,
+        "gameTypes": ["RP", "ACT"]
+    },
+    {
+        "gameId": "g1005",
+        "gameTitle": "Build Battle",
+        "gameCoverPic": "https://static-hatcoins.vercel.app/gamesimg/build-battle.png",
+        "visitorEnter": 424,
+        "praiseNumber": 13212,
+        "gameTypes": ["ADV"]
+    },
+    {
+        "gameId": "g1006",
+        "gameTitle": "Lucky Block Skywars",
+        "gameCoverPic": "https://static-hatcoins.vercel.app/gamesimg/skywar.png",
+        "visitorEnter": 524,
+        "praiseNumber": 27372,
+        "gameTypes": ["ACT", "ADV"]
+    }
+]
